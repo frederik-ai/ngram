@@ -1,0 +1,3 @@
+SENTENCE_END_CHARS = ('.', '?', '!', ';', ':')
+SENTENCE_START_TOKEN = '<BOS>'
+SENTENCE_END_TOKEN = '<EOS>'
